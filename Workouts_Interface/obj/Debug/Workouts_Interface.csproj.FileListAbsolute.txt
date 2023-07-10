@@ -1,0 +1,12 @@
+C:\Users\Ricardo Antunes\Desktop\Workouts_DB\Workouts_Interface\bin\Debug\Workouts_Interface.exe.config
+C:\Users\Ricardo Antunes\Desktop\Workouts_DB\Workouts_Interface\bin\Debug\Workouts_Interface.exe
+C:\Users\Ricardo Antunes\Desktop\Workouts_DB\Workouts_Interface\bin\Debug\Workouts_Interface.pdb
+C:\Users\Ricardo Antunes\Desktop\Workouts_DB\Workouts_Interface\obj\Debug\Workouts_Interface.csproj.AssemblyReference.cache
+C:\Users\Ricardo Antunes\Desktop\Workouts_DB\Workouts_Interface\obj\Debug\Workouts_Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ricardo Antunes\Desktop\Workouts_DB\Workouts_Interface\obj\Debug\Workouts_Interface.PlanoTreino.resources
+C:\Users\Ricardo Antunes\Desktop\Workouts_DB\Workouts_Interface\obj\Debug\Workouts_Interface.Properties.Resources.resources
+C:\Users\Ricardo Antunes\Desktop\Workouts_DB\Workouts_Interface\obj\Debug\Workouts_Interface.csproj.GenerateResource.cache
+C:\Users\Ricardo Antunes\Desktop\Workouts_DB\Workouts_Interface\obj\Debug\Workouts_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo Antunes\Desktop\Workouts_DB\Workouts_Interface\obj\Debug\Workouts_Interface.exe
+C:\Users\Ricardo Antunes\Desktop\Workouts_DB\Workouts_Interface\obj\Debug\Workouts_Interface.pdb
+C:\Users\Ricardo Antunes\Desktop\Workouts_DB\Workouts_Interface\obj\Debug\Workouts_Interface.Dados.resources
