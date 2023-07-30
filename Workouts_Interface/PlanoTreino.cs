@@ -14,14 +14,17 @@ namespace Workouts_Interface
 {
     public partial class PlanoTreino : Form
     {
-        private SqlConnection getSGBDConnection()
-        {
-            return new SqlConnection("Data Source="+AppData.serverName+ ";Initial Catalog="+ AppData.databaseName+ ";Integrated Security=True;User ID="+AppData.username+";");
-        }
-        public PlanoTreino()
+        private string username;
+        public PlanoTreino(string username)
         {
             BackButton();
             InitializeComponent();
+            this.username = username;
+        }
+
+        private SqlConnection getSGBDConnection()
+        {
+            return new SqlConnection("Data Source=" + AppData.serverName + ";Initial Catalog=" + AppData.databaseName + ";Integrated Security=True;User ID=" + AppData.username + ";");
         }
 
         private void BackButton(){
@@ -79,9 +82,6 @@ namespace Workouts_Interface
         }
         private void button1_Click(object sender, EventArgs e)
         {
-            Dados form = new Dados();  
-            form.Show();
-
             this.Hide();
         }
     }

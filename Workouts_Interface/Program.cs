@@ -16,7 +16,7 @@ namespace Workouts_Interface
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new PlanoTreino());
+            Application.Run(new MainPage());
         }
     }
 }
